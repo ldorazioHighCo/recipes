@@ -1,0 +1,5 @@
+{
+  "bundles": {
+    "ldorazio\\hcnx_bundle_symfony\\Log4PhpBundle": ["all"]
+  }
+}
